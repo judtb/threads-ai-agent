@@ -1,0 +1,3 @@
+openai
+threads-client
+python-dotenv
